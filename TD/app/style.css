@@ -1,0 +1,33 @@
+body {
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik Iso', cursive;
+}
+#h1{
+color:red;
+}
+
+button{
+background-color:red;
+color:white;
+padding: 30px;
+border: 5px solid #777;
+}
+
+button:hover{
+cursor:pointer;
+background-color:green;
+
+}
+
+input {padding 12px;
+font-size:20px;}
+
+.card{
+border: 3px solid #555;
+width:400px;
+height:400px;
+padding:16px;
+background-color:grey;
+text-align:center;
+
+}
